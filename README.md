@@ -9,7 +9,9 @@
 <br>
 
 <!-- Estatísticas do GitHub -->
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;" align="center">
-  <a href="https://github.com/caiomaz/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=caiomaz&count_private=true&theme=transparent" alt="caiomaz's GitHub stats" style="width: 450px; height: 195px" />
+
+<div align="center">
+  <a href="https://github.com/caiomaz" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=caiomaz&show_icons=true&theme=transparent&include_all_commits=true&count_private=true">
+  </a>
 </div>
