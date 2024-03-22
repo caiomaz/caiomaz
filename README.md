@@ -23,6 +23,6 @@
 
 <div>
 
-[![caiomaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiomaz)](https://github.com/caiomaz/github-readme-stats)
+[![caiomaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiomaz&count_private=true&theme=cobalt)](https://github.com/caiomaz/github-readme-stats)
   
 </div>
