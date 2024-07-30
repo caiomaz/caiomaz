@@ -9,8 +9,4 @@
 <br>
 
 <!-- Estatísticas do GitHub -->
-<div align="center">
-  <a href="https://github.com/caiomaz" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=caiomaz&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&token=PAT_1">
-  </a>
-</div>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caiomaz&" alt="caiomaz"/>
