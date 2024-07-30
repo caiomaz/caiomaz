@@ -9,4 +9,6 @@
 <br>
 
 <!-- Estatísticas do GitHub -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caiomaz&" alt="caiomaz"/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiomaz&" alt="caiomaz"/>
+</div>
