@@ -10,5 +10,5 @@
 
 <!-- Estatísticas do GitHub -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiomaz&theme=dark" alt="caiomaz"/>
+  <img src="https://github-readme-stats-seven-tau-34.vercel.app/api?username=caiomaz&show_icons=true&theme=transparent)"/>
 </div>
